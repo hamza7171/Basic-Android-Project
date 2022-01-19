@@ -3,7 +3,7 @@ A Basic Android Project with proper structure and all necessary dependencies.
 ---
 
 # What is this repo for?
--When you need to create a new project. Simply clone this project and all of your basic structure and classes will be implemented quickly.
+-When you need to create a new project. Simply clone this project and all of your basic structure and classes will be added quickly.
 
 -Also this project have wide number of utility methods which makes your life easier.
 
