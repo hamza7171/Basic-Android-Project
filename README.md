@@ -22,7 +22,7 @@ A Basic Android Project with proper structure and all necessary dependencies.
 
 -Permission Utils for all permission related task e.g request permission, check permission etc
 
--Device Utils for all device relation functions e.g Screen size, Screen density, mac address etc
+-Device Utils for all device related functions e.g Screen size, Screen density, mac address etc
 
 
 # Usage
