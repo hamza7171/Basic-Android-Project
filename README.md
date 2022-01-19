@@ -20,3 +20,9 @@ A Basic Android Project with proper structure and all necessary dependencies.
 
 -Utility class for common and mostly used functions.
 
+
+# Usage
+-Extend your activities with BaseAcvity class
+
+-Extend your fragments with BaseFragment class
+
